@@ -72,7 +72,7 @@
         {
           "name": "Три зоны",
           "description": "Бикини, голени, подмышки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 6390,
