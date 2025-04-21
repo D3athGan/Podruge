@@ -265,6 +265,72 @@
             "address": "2-я Брестская ул., д. 24"
           }
         ]
+      },
+      {
+        "name": "Все тело + руки",
+        "description": null,
+        "equip": "Alex",
+        "select": true,
+        "prices": {
+          "women": {
+            "standard_price": 13990,
+            "club_card_price": 6990,
+            "top_price": 8990,
+            "top_card_price": 4490
+          },
+          "men": {
+            "standard_price": null,
+            "club_card_price": null,
+            "top_price": null,
+            "top_card_price": null
+          }
+        },
+        "subscriptions": {
+          "regular": {
+            "3_sessions": 9283,
+            "6_sessions": 18183,
+            "9_sessions": 26700
+          },
+          "top": {
+            "3_sessions": 13066,
+            "6_sessions": 25593,
+            "9_sessions": 37581
+          }
+        },
+        "clinics": [
+          {
+            "city": "Москва",
+            "address": "Кутузовский пр., д. 34, стр. 14"
+          },
+          {
+            "city": "Москва",
+            "address": "ул. Сретенка, д. 27, стр.1"
+          },
+          {
+            "city": "Москва",
+            "address": "Леонтьевский пер., д. 21/1, стр. 1"
+          },
+          {
+            "city": "Москва",
+            "address": "ул. Александра Солженицына, д. 1/5"
+          },
+          {
+            "city": "Москва",
+            "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+          },
+          {
+            "city": "Москва",
+            "address": "ул. Лесная, д. 1/2"
+          },
+          {
+            "city": "Москва",
+            "address": "проспект Вернадского, д. 41, стр.1"
+          },
+          {
+            "city": "Москва",
+            "address": "2-я Брестская ул., д. 24"
+          }
+        ]
       }
     ]
   }
