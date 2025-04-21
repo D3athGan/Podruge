@@ -50,7 +50,7 @@
               "top_card_price": 7990
             },
             "men": {
-              "standard_price": null,
+              "standard_price": 123,
               "club_card_price": null,
               "top_price": null,
               "top_card_price": null
