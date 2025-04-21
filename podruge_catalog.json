@@ -96,7 +96,7 @@
         },
         {
           "name": "Все тело + руки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 13990,
@@ -161,7 +161,7 @@
       "services": [
         {
           "name": "Лазерная эпиляция (все тело)",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 17990,
@@ -211,7 +211,7 @@
         {
           "name": "Все тело + руки",
           "description": "Описание услуги",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 13990,
