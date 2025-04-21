@@ -96,7 +96,7 @@
         },
         {
           "name": "Все тело + руки",
-          "select": false,
+          "select": true,
           "prices": {
             "women": {
               "standard_price": 13990,
