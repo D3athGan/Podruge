@@ -218,6 +218,12 @@
               "club_card_price": 6990,
               "top_price": 8990,
               "top_card_price": 4490
+            },
+            "men": {
+              "standard_price": 123,
+              "club_card_price": 1234,
+              "top_price": 124,
+              "top_card_price": 4412490
             }
           },
           "subscriptions": {
