@@ -40,7 +40,8 @@
       ],
       "services": [
         {
-          "name": "Лазерная эпиляция (все тело)",
+          "name": "Все тело",
+          "description": "Ноги полностью, глубокое бикини, подмышки, малая зона",
           "select": true,
           "prices": {
             "women": {
@@ -50,8 +51,8 @@
               "top_card_price": 7990
             },
             "men": {
-              "standard_price": 123,
-              "club_card_price": 345,
+              "standard_price": null,
+              "club_card_price": null,
               "top_price": null,
               "top_card_price": null
             }
@@ -59,7 +60,7 @@
           "subscriptions": {
             "regular": {
               "3_sessions": 17431,
-              "6_sessions": 34163,
+              "6_sessions": 34143,
               "9_sessions": 50136
             },
             "top": {
@@ -96,25 +97,942 @@
         },
         {
           "name": "Все тело + руки",
-          "select": false,
+          "description": "Руки полностью, ноги полностью, глубокое бикини, подмышки, малая зона",
+          "select": true,
           "prices": {
             "women": {
               "standard_price": 13990,
               "club_card_price": 6990,
-              "top_price": 8990,
-              "top_card_price": 4490
+              "top_price": 17990,
+              "top_card_price": 8990
             }
           },
           "subscriptions": {
             "regular": {
-              "3_sessions": 9283,
-              "6_sessions": 18183,
-              "9_sessions": 26700
+              "3_sessions": 20341,
+              "6_sessions": 39843,
+              "9_sessions": 58506
             },
             "top": {
-              "3_sessions": 13066,
-              "6_sessions": 25593,
-              "9_sessions": 37581
+              "3_sessions": 26161,
+              "6_sessions": 51243,
+              "9_sessions": 75246
+            }
+          }
+        },
+        {
+          "name": "Ареолы",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            },
+            "men": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 20341,
+              "6_sessions": 39843,
+              "9_sessions": 58506
+            },
+            "top": {
+              "3_sessions": 26161,
+              "6_sessions": 51243,
+              "9_sessions": 75246
+            }
+          }
+        },
+        {
+          "name": "Бедра",
+          "description": "Передняя/задняя/внутренняя часть",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2790,
+              "club_card_price": 1390,
+              "top_price": 4390,
+              "top_card_price": 2190
+            },
+            "men": {
+              "standard_price": 2790,
+              "club_card_price": 1390,
+              "top_price": 4390,
+              "top_card_price": 2190
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": null,
+              "6_sessions": null,
+              "9_sessions": null
+            },
+            "top": {
+              "3_sessions": null,
+              "6_sessions": null,
+              "9_sessions": null
+            }
+          }
+        },
+        {
+          "name": "Бедра полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 3990,
+              "club_card_price": 1990,
+              "top_price": 5390,
+              "top_card_price": 2690
+            },
+            "men": {
+              "standard_price": 3990,
+              "club_card_price": 1990,
+              "top_price": 5390,
+              "top_card_price": 2690
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 5791,
+              "6_sessions": 11343,
+              "9_sessions": 16656
+            },
+            "top": {
+              "3_sessions": 7828,
+              "6_sessions": 15333,
+              "9_sessions": 22515
+            }
+          }
+        },
+        {
+          "name": "Бикини глубокое/пах",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2790,
+              "club_card_price": 1390,
+              "top_price": 3790,
+              "top_card_price": 2390
+            },
+            "men": {
+              "standard_price": 2790,
+              "club_card_price": 1390,
+              "top_price": 3790,
+              "top_card_price": 2390
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 4045,
+              "6_sessions": 7923,
+              "9_sessions": 11634
+            },
+            "top": {
+              "3_sessions": 6955,
+              "6_sessions": 13623,
+              "9_sessions": 20004
+            }
+          }
+        },
+        {
+          "name": "Бикини классическое",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1990,
+              "club_card_price": 990,
+              "top_price": 3390,
+              "top_card_price": 1690
+            },
+            "men": {
+              "standard_price": 1990,
+              "club_card_price": 990,
+              "top_price": 3390,
+              "top_card_price": 1690
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 2881,
+              "6_sessions": 5643,
+              "9_sessions": 8286
+            },
+            "top": {
+              "3_sessions": 4918,
+              "6_sessions": 9633,
+              "9_sessions": 14145
+            }
+          }
+        },
+        {
+          "name": "Виски/бакенбарды/нос",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 2190,
+              "top_card_price": 1090
+            },
+            "men": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 2190,
+              "top_card_price": 1090
+            }
+          }
+        },
+        {
+          "name": "Голени с коленями",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 3790,
+              "club_card_price": 1890,
+              "top_price": 4990,
+              "top_card_price": 2490
+            },
+            "men": {
+              "standard_price": 3790,
+              "club_card_price": 1890,
+              "top_price": 4990,
+              "top_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 5500,
+              "6_sessions": 10773,
+              "9_sessions": 15819
+            },
+            "top": {
+              "3_sessions": 7246,
+              "6_sessions": 14193,
+              "9_sessions": 20841
+            }
+          }
+        },
+        {
+          "name": "Грудь полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 1490,
+              "top_price": 4590,
+              "top_card_price": 2290
+            },
+            "men": {
+              "standard_price": 2990,
+              "club_card_price": 1490,
+              "top_price": 4590,
+              "top_card_price": 2290
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 4336,
+              "6_sessions": 8493,
+              "9_sessions": 12471
+            },
+            "top": {
+              "3_sessions": 6664,
+              "6_sessions": 13053,
+              "9_sessions": 19167
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2790,
+              "club_card_price": 1390,
+              "top_price": 3590,
+              "top_card_price": 1790
+            },
+            "men": {
+              "standard_price": 2790,
+              "club_card_price": 1390,
+              "top_price": 3590,
+              "top_card_price": 1790
+            }
+          }
+        },
+        {
+          "name": "Живот полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2190,
+              "club_card_price": 1090,
+              "top_price": 3790,
+              "top_card_price": 1890
+            },
+            "men": {
+              "standard_price": 2190,
+              "club_card_price": 1090,
+              "top_price": 3790,
+              "top_card_price": 1890
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 3172,
+              "6_sessions": 6213,
+              "9_sessions": 9123
+            },
+            "top": {
+              "3_sessions": 5500,
+              "6_sessions": 10773,
+              "9_sessions": 15819
+            }
+          }
+        },
+        {
+          "name": "Живот, белая линия",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 590,
+              "club_card_price": 290,
+              "top_price": 1390,
+              "top_card_price": 690
+            },
+            "men": {
+              "standard_price": 590,
+              "club_card_price": 290,
+              "top_price": 1390,
+              "top_card_price": 690
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 844,
+              "6_sessions": 1653,
+              "9_sessions": 2427
+            },
+            "top": {
+              "3_sessions": 2008,
+              "6_sessions": 3933,
+              "9_sessions": 5775
+            }
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 990,
+              "club_card_price": 490,
+              "top_price": 1590,
+              "top_card_price": 790
+            },
+            "men": {
+              "standard_price": 990,
+              "club_card_price": 490,
+              "top_price": 1590,
+              "top_card_price": 790
+            }
+          }
+        },
+        {
+          "name": "Кисти рук с пальцами",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1990,
+              "club_card_price": 990,
+              "top_price": 2390,
+              "top_card_price": 1190
+            },
+            "men": {
+              "standard_price": 1990,
+              "club_card_price": 990,
+              "top_price": 2390,
+              "top_card_price": 1190
+            }
+          }
+        },
+        {
+          "name": "Колени",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            },
+            "men": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            }
+          }
+        },
+        {
+          "name": "Линия роста бороды",
+          "select": true,
+          "prices": {
+            "men": {
+              "standard_price": 3990,
+              "club_card_price": 1990,
+              "top_price": 4990,
+              "top_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 5791,
+              "6_sessions": 11343,
+              "9_sessions": 16656
+            },
+            "top": {
+              "3_sessions": 7246,
+              "6_sessions": 14193,
+              "9_sessions": 20841
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 1490,
+              "top_price": 4590,
+              "top_card_price": 2290
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 4336,
+              "6_sessions": 8493,
+              "9_sessions": 12471
+            },
+            "top": {
+              "3_sessions": 6664,
+              "6_sessions": 13053,
+              "9_sessions": 19167
+            }
+          }
+        },
+        {
+          "name": "Лоб/щеки",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 2190,
+              "top_card_price": 1090
+            },
+            "men": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 2190,
+              "top_card_price": 1090
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 1717,
+              "6_sessions": 3363,
+              "9_sessions": 4938
+            },
+            "top": {
+              "3_sessions": 3172,
+              "6_sessions": 6213,
+              "9_sessions": 9123
+            }
+          }
+        },
+        {
+          "name": "Малая зона",
+          "description": "Верхняя губа или подбородок",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 990,
+              "club_card_price": 490,
+              "top_price": 1990,
+              "top_card_price": 990
+            },
+            "men": {
+              "standard_price": 990,
+              "club_card_price": 490,
+              "top_price": 1990,
+              "top_card_price": 990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 1426,
+              "6_sessions": 2793,
+              "9_sessions": 4101
+            },
+            "top": {
+              "3_sessions": 2881,
+              "6_sessions": 5643,
+              "9_sessions": 8286
+            }
+          }
+        },
+        {
+          "name": "Межъягодичная зона",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 990,
+              "club_card_price": 490,
+              "top_price": 1990,
+              "top_card_price": 990
+            },
+            "men": {
+              "standard_price": 990,
+              "club_card_price": 490,
+              "top_price": 1990,
+              "top_card_price": 990
+            }
+          }
+        },
+        {
+          "name": "Ноги полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 7390,
+              "club_card_price": 3690,
+              "top_price": 7590,
+              "top_card_price": 4290
+            },
+            "men": {
+              "standard_price": 7390,
+              "club_card_price": 3690,
+              "top_price": 7590,
+              "top_card_price": 4290
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 10738,
+              "6_sessions": 21033,
+              "9_sessions": 30885
+            },
+            "top": {
+              "3_sessions": 12484,
+              "6_sessions": 24453,
+              "9_sessions": 35907
+            }
+          }
+        },
+        {
+          "name": "Пальцы ног",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            },
+            "men": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            }
+          }
+        },
+        {
+          "name": "Пальцы рук",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            },
+            "men": {
+              "standard_price": 790,
+              "club_card_price": 390,
+              "top_price": 1790,
+              "top_card_price": 890
+            }
+          }
+        },
+        {
+          "name": "Плечи",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1590,
+              "club_card_price": 790,
+              "top_price": 2390,
+              "top_card_price": 1190
+            },
+            "men": {
+              "standard_price": 1590,
+              "club_card_price": 790,
+              "top_price": 2390,
+              "top_card_price": 1190
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 2299,
+              "6_sessions": 4503,
+              "9_sessions": 6612
+            },
+            "top": {
+              "3_sessions": 3463,
+              "6_sessions": 6783,
+              "9_sessions": 9960
+            }
+          }
+        },
+        {
+          "name": "Подмышки",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1390,
+              "club_card_price": 690,
+              "top_price": 1990,
+              "top_card_price": 990
+            },
+            "men": {
+              "standard_price": 1390,
+              "club_card_price": 690,
+              "top_price": 1990,
+              "top_card_price": 990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 2008,
+              "6_sessions": 3933,
+              "9_sessions": 5775
+            },
+            "top": {
+              "3_sessions": 2881,
+              "6_sessions": 5643,
+              "9_sessions": 8286
+            }
+          }
+        },
+        {
+          "name": "Подъём ног",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 1790,
+              "top_card_price": 890
+            },
+            "men": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 1790,
+              "top_card_price": 890
+            }
+          }
+        },
+        {
+          "name": "Подъём ног с пальцами",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1790,
+              "club_card_price": 890,
+              "top_price": 2390,
+              "top_card_price": 1190
+            },
+            "men": {
+              "standard_price": 1790,
+              "club_card_price": 890,
+              "top_price": 2390,
+              "top_card_price": 1190
+            }
+          }
+        },
+        {
+          "name": "Руки выше локтя",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2390,
+              "club_card_price": 1190,
+              "top_price": 3990,
+              "top_card_price": 1990
+            },
+            "men": {
+              "standard_price": 2390,
+              "club_card_price": 1190,
+              "top_price": 3990,
+              "top_card_price": 1990
+            }
+          }
+        },
+       {
+          "name": "Руки до локтя",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2390,
+              "club_card_price": 1190,
+              "top_price": 3990,
+              "top_card_price": 1990
+            },
+            "men": {
+              "standard_price": 2390,
+              "club_card_price": 1190,
+              "top_price": 3990,
+              "top_card_price": 1990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 3463,
+              "6_sessions": 6783,
+              "9_sessions": 9960
+            },
+            "top": {
+              "3_sessions": 5791,
+              "6_sessions": 11343,
+              "9_sessions": 16656
+            }
+          }
+        }, 
+        {
+          "name": "Руки полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 1490,
+              "top_price": 4590,
+              "top_card_price": 2290
+            },
+            "men": {
+              "standard_price": 2990,
+              "club_card_price": 1490,
+              "top_price": 4590,
+              "top_card_price": 2290
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 4336,
+              "6_sessions": 8493,
+              "9_sessions": 12471
+            },
+            "top": {
+              "3_sessions": 6664,
+              "6_sessions": 13053,
+              "9_sessions": 19167
+            }
+          }
+        }, 
+        {
+          "name": "Спина нижняя треть",
+          "description": "Поясница или крестец",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1790,
+              "club_card_price": 890,
+              "top_price": 2590,
+              "top_card_price": 1290
+            },
+            "men": {
+              "standard_price": 1790,
+              "club_card_price": 890,
+              "top_price": 2590,
+              "top_card_price": 1290
+            }
+          }
+        }, 
+        {
+          "name": "Спина полностью",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 3390,
+              "club_card_price": 1690,
+              "top_price": 4990,
+              "top_card_price": 2490
+            },
+            "men": {
+              "standard_price": 3390,
+              "club_card_price": 1690,
+              "top_price": 4990,
+              "top_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 4918,
+              "6_sessions": 9633,
+              "9_sessions": 14145
+            },
+            "top": {
+              "3_sessions": 7246,
+              "6_sessions": 14193,
+              "9_sessions": 20841
+            }
+          }
+        }, 
+        {
+          "name": "Шея",
+          "description": " Передняя или задняя поверхность",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 1990,
+              "top_card_price": 990
+            },
+            "men": {
+              "standard_price": 1190,
+              "club_card_price": 590,
+              "top_price": 1990,
+              "top_card_price": 990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 1717,
+              "6_sessions": 3363,
+              "9_sessions": 4938
+            },
+            "top": {
+              "3_sessions": 2881,
+              "6_sessions": 5643,
+              "9_sessions": 8286
+            }
+          }
+        }, 
+        {
+          "name": "Ягодицы",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 2390,
+              "club_card_price": 1190,
+              "top_price": 3990,
+              "top_card_price": 1990
+            },
+            "men": {
+              "standard_price": 2390,
+              "club_card_price": 1190,
+              "top_price": 3990,
+              "top_card_price": 1990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 3463,
+              "6_sessions": 6783,
+              "9_sessions": 9960
+            },
+            "top": {
+              "3_sessions": 5791,
+              "6_sessions": 11343,
+              "9_sessions": 16656
+            }
+          }
+        }, 
+        {
+          "name": "Full man body",
+          "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя/задняя часть, бакенбарды/виски/нос",
+          "select": true,
+          "prices": {
+            "men": {
+              "standard_price": 17990,
+              "club_card_price": 8990,
+              "top_price": 19990,
+              "top_card_price": 10990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 26161,
+              "6_sessions": 51243,
+              "9_sessions": 75246
+            },
+            "top": {
+              "3_sessions": 31981,
+              "6_sessions": 62643,
+              "9_sessions": 91986
+            }
+          }
+        }, 
+        {
+          "name": "Man face",
+          "description": "Линия роста бороды, щеки, нос, шея, виски/банкенбарды",
+          "select": true,
+          "prices": {
+            "men": {
+              "standard_price": 5990,
+              "club_card_price": 2990,
+              "top_price": 7990,
+              "top_card_price": 3990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 8701,
+              "6_sessions": 17043,
+              "9_sessions": 25026
+            },
+            "top": {
+              "3_sessions": 11611,
+              "6_sessions": 22743,
+              "9_sessions": 33396
+            }
+          }
+        },
+        {
+          "name": "Анестезия",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 400,
+              "top_price": 500
+            },
+            "men": {
+              "standard_price": 400,
+              "top_price": 500
+            }
+          }
+        },
+        {
+          "name": "Предварительное бритье",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 400,
+              "top_price": 500
+            },
+            "men": {
+              "standard_price": 400,
+              "top_price": 500
             }
           }
         }
@@ -161,7 +1079,7 @@
       "services": [
         {
           "name": "Лазерная эпиляция (все тело)",
-          "select": false,
+          "select": true,
           "prices": {
             "women": {
               "standard_price": 17990,
@@ -210,7 +1128,8 @@
         },
         {
           "name": "Все тело + руки",
-          "select": false,
+          "description": "Описание услуги",
+          "select": true,
           "prices": {
             "women": {
               "standard_price": 13990,
