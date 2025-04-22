@@ -122,7 +122,7 @@
         },
         {
           "name": "Ареолы",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -153,7 +153,7 @@
         {
           "name": "Бедра",
           "description": "Передняя / задняя / внутренняя часть",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -201,7 +201,7 @@
         },
         {
           "name": "Бикини глубокое/пах",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -231,7 +231,7 @@
         },
         {
           "name": "Бикини классическое",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1990,
@@ -261,7 +261,7 @@
         },
         {
           "name": "Виски/бакенбарды/нос",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -279,7 +279,7 @@
         },
         {
           "name": "Голени с коленями",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3790,
@@ -309,7 +309,7 @@
         },
         {
           "name": "Грудь полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -339,7 +339,7 @@
         },
         {
           "name": "Декольте",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -357,7 +357,7 @@
         },
         {
           "name": "Живот полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2190,
@@ -387,7 +387,7 @@
         },
         {
           "name": "Живот, белая линия",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 590,
@@ -417,7 +417,7 @@
         },
         {
           "name": "Кисти рук",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 990,
@@ -435,7 +435,7 @@
         },
         {
           "name": "Кисти рук с пальцами",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1990,
@@ -453,7 +453,7 @@
         },
         {
           "name": "Колени",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -471,7 +471,7 @@
         },
         {
           "name": "Линия роста бороды",
-          "select": true,
+          "select": false,
           "prices": {
             "men": {
               "standard_price": 3990,
@@ -495,7 +495,7 @@
         },
         {
           "name": "Лицо полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -519,7 +519,7 @@
         },
         {
           "name": "Лоб/щеки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -550,7 +550,7 @@
         {
           "name": "Малая зона",
           "description": "Верхняя губа или подбородок",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 990,
@@ -580,7 +580,7 @@
         },
         {
           "name": "Межъягодичная зона",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 990,
@@ -598,7 +598,7 @@
         },
         {
           "name": "Ноги полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 7390,
@@ -628,7 +628,7 @@
         },
         {
           "name": "Пальцы ног",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -646,7 +646,7 @@
         },
         {
           "name": "Пальцы рук",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -664,7 +664,7 @@
         },
         {
           "name": "Плечи",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -694,7 +694,7 @@
         },
         {
           "name": "Подмышки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1390,
@@ -724,7 +724,7 @@
         },
         {
           "name": "Подъём ног",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -742,7 +742,7 @@
         },
         {
           "name": "Подъём ног с пальцами",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1790,
@@ -778,7 +778,7 @@
         },
        {
           "name": "Руки до локтя",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -808,7 +808,7 @@
         }, 
         {
           "name": "Руки полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -839,7 +839,7 @@
         {
           "name": "Спина нижняя треть",
           "description": "Поясница или крестец",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1790,
@@ -857,7 +857,7 @@
         }, 
         {
           "name": "Спина полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3390,
@@ -888,7 +888,7 @@
         {
           "name": "Шея",
           "description": " Передняя или задняя поверхность",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -1116,7 +1116,7 @@
         },
         {
           "name": "Все тело + руки",
-          "description": "Описание услуги",
+          "description": "Руки полностью, ноги полностью, глубокое бикини, подмышки, малая зона",
           "select": true,
           "prices": {
             "women": {
