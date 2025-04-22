@@ -171,7 +171,7 @@
         },
         {
           "name": "Бедра полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3990,
@@ -760,7 +760,7 @@
         },
         {
           "name": "Руки выше локтя",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -918,7 +918,7 @@
         }, 
         {
           "name": "Ягодицы",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
