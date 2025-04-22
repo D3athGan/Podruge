@@ -210,7 +210,6 @@
         },
         {
           "name": "Все тело + руки",
-          "description": "Описание услуги",
           "select": false,
           "prices": {
             "women": {
