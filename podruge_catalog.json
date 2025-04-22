@@ -152,7 +152,7 @@
         },
         {
           "name": "Бедра",
-          "description": "Передняя/задняя/внутренняя часть",
+          "description": "Передняя / задняя / внутренняя часть",
           "select": true,
           "prices": {
             "women": {
@@ -166,18 +166,6 @@
               "club_card_price": 1390,
               "top_price": 4390,
               "top_card_price": 2190
-            }
-          },
-          "subscriptions": {
-            "regular": {
-              "3_sessions": null,
-              "6_sessions": null,
-              "9_sessions": null
-            },
-            "top": {
-              "3_sessions": null,
-              "6_sessions": null,
-              "9_sessions": null
             }
           }
         },
