@@ -45,7 +45,7 @@
           "select": true,
           "prices": {
             "women": {
-              "standard_price": 1990,
+              "standard_price": 11990,
               "club_card_price": 5990,
               "top_price": 15990,
               "top_card_price": 7990
