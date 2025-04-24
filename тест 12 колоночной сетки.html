@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Лазерная эпиляция</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: sans-serif;
+      background: #fff;
+      padding: 20px;
+      margin: 0;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0 -10px;
+    }
+    .col {
+      padding: 0 10px;
+      margin-bottom: 20px;
+    }
+    .col-12 { width: 100%; }
+    .col-6 { width: 50%; }
+    .col-4 { width: 33.3333%; }
+    .col-3 { width: 25%; }
+    .col-2 { width: 16.6667%; }
+
+    @media (max-width: 992px) {
+      .col-6, .col-4, .col-3, .col-2 {
+        width: 100%;
+      }
+    }
+
+    .filters {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding: 20px;
+      border: 1px solid #1AC9D6;
+      border-radius: 20px;
+      position: sticky;
+      top: 0;
+      background-color: #fff;
+      z-index: 999;
+      color: #1AC9D6;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .tab-group {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .tab-button {
+      border: none;
+      background: white;
+      font-size: 16px;
+      cursor: pointer;
+      color: #808080;
+      padding: 6px 12px;
+    }
+    .tab-button.active {
+      color: #1AC9D6;
+    }
+    .title {
+      font-size: 22px;
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+    .title-desc {
+      font-size: 16px;
+      font-weight: 400;
+      color: #8e8e8e;
+      margin-bottom: 16px;
+    }
+    .card {
+      border-radius: 16px;
+      padding: 20px;
+      border: 1px solid #1AC9D6;
+      background: white;
+      color: #000;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .card.selected {
+      background: #1AC9D6;
+      color: #fff;
+      border: none;
+    }
+    .card .info {
+      flex: 1;
+      min-width: 180px;
+      max-width: 40%;
+    }
+    .card .label {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+    .card .desc {
+      font-size: 14px;
+      color: #8e8e8e;
+    }
+    .card.selected .desc {
+      font-weight: normal;
+      color: white;
+    }
+    .card .prices {
+      text-align: center;
+      min-width: 240px;
+      font-size: 14px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      max-width: 60%;
+    }
+    .card .prices span {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 0 4px;
+      white-space: nowrap;
+      margin-bottom: 5px;
+    }
+    .card .prices .price-value {
+      font-weight: bold;
+      font-family: inherit;
+      color: inherit;
+    }
+    .price-label,
+    .visits-label {
+      font-weight: normal;
+      font-size: 13px;
+      color: #8e8e8e;
+      white-space: nowrap;
+      margin: 0;
+      line-height: 1;
+    }
+    .card.selected .price-label,
+    .card.selected .visits-label {
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<div class="filters">
+  <div class="tab-group">
+    <button class="tab-button" data-filter="gender" data-value="women">Женский</button>
+    <button class="tab-button" data-filter="gender" data-value="men">Мужской</button>
+  </div>
+  <div class="tab-group">
+    <button class="tab-button" data-filter="visitType" data-value="prices">Разовые</button>
+    <button class="tab-button" data-filter="visitType" data-value="subscriptions">Абонементы</button>
+  </div>
+  <div class="tab-group">
+    <button class="tab-button" data-filter="priceType" data-value="standard">Стандарт</button>
+    <button class="tab-button" data-filter="priceType" data-value="top">ТОП</button>
+  </div>
+</div>
+
+<div class="container">
+  <div class="col col-6">
+    <div class="title">Диодный лазер</div>
+    <div class="title-desc">Magic one</div>
+    <div id="diode"></div>
+  </div>
+  <div class="col col-6">
+    <div class="title">Александритовый лазер</div>
+    <div class="title-desc">Candela / CynoSure / DEKA / Light Sheer Duet</div>
+    <div id="alex"></div>
+  </div>
+</div>
+
+<!-- Скрипт подключается отдельно и остаётся без изменений -->
+<script src="https://raw.githubusercontent.com/D3athGan/Podruge/refs/heads/main/script-lhr.js"></script>
+</body>
+</html>
