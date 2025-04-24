@@ -27,6 +27,10 @@
         },
         {
           "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
           "address": "проспект Вернадского, д. 41, стр.1"
         },
         {
@@ -112,7 +116,7 @@
         },
         {
           "name": "Ареолы",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -131,7 +135,7 @@
         {
           "name": "Бедра",
           "description": "Передняя/задняя/внутренняя часть",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -161,7 +165,7 @@
         },
         {
           "name": "Бедра полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3990,
@@ -191,7 +195,7 @@
         },
         {
           "name": "Бикини глубокое/пах",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -221,7 +225,7 @@
         },
         {
           "name": "Бикини классическое",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1990,
@@ -269,7 +273,7 @@
         },
         {
           "name": "Голени с коленями",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3790,
@@ -299,7 +303,7 @@
         },
         {
           "name": "Грудь полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -329,7 +333,7 @@
         },
         {
           "name": "Декольте",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -347,7 +351,7 @@
         },
         {
           "name": "Живот полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2190,
@@ -377,7 +381,7 @@
         },
         {
           "name": "Живот, белая линия",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 590,
@@ -407,7 +411,7 @@
         },
         {
           "name": "Кисти рук",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 990,
@@ -425,7 +429,7 @@
         },
         {
           "name": "Кисти рук с пальцами",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1990,
@@ -443,7 +447,7 @@
         },
         {
           "name": "Колени",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -461,7 +465,7 @@
         },
         {
           "name": "Линия роста бороды",
-          "select": true,
+          "select": false,
           "prices": {
             "men": {
               "standard_price": 3990,
@@ -485,7 +489,7 @@
         },
         {
           "name": "Лицо полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -509,7 +513,7 @@
         },
         {
           "name": "Лоб/щеки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -540,7 +544,7 @@
         {
           "name": "Малая зона",
           "description": "Верхняя губа или подбородок",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 990,
@@ -570,7 +574,7 @@
         },
         {
           "name": "Межъягодичная зона",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 990,
@@ -618,7 +622,7 @@
         },
         {
           "name": "Пальцы ног",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -636,7 +640,7 @@
         },
         {
           "name": "Пальцы рук",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 790,
@@ -654,7 +658,7 @@
         },
         {
           "name": "Плечи",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -684,7 +688,7 @@
         },
         {
           "name": "Подмышки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1390,
@@ -714,7 +718,7 @@
         },
         {
           "name": "Подъём ног",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -732,7 +736,7 @@
         },
         {
           "name": "Подъём ног с пальцами",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1790,
@@ -750,7 +754,7 @@
         },
         {
           "name": "Руки выше локтя",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -766,9 +770,9 @@
             }
           }
         },
-       {
+        {
           "name": "Руки до локтя",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -795,10 +799,10 @@
               "9_sessions": 16656
             }
           }
-        }, 
+        },
         {
           "name": "Руки полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -825,11 +829,11 @@
               "9_sessions": 19167
             }
           }
-        }, 
+        },
         {
           "name": "Спина нижняя треть",
           "description": "Поясница или крестец",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1790,
@@ -844,10 +848,10 @@
               "top_card_price": 1290
             }
           }
-        }, 
+        },
         {
           "name": "Спина полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3390,
@@ -874,11 +878,11 @@
               "9_sessions": 20841
             }
           }
-        }, 
+        },
         {
           "name": "Шея",
           "description": " Передняя или задняя поверхность",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1190,
@@ -905,10 +909,10 @@
               "9_sessions": 8286
             }
           }
-        }, 
+        },
         {
           "name": "Ягодицы",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -935,7 +939,7 @@
               "9_sessions": 16656
             }
           }
-        }, 
+        },
         {
           "name": "Full man body",
           "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя/задняя часть, бакенбарды/виски/нос",
@@ -960,7 +964,7 @@
               "9_sessions": 91986
             }
           }
-        }, 
+        },
         {
           "name": "Man face",
           "description": "Линия роста бороды, щеки, нос, шея, виски/банкенбарды",
@@ -988,7 +992,7 @@
         },
         {
           "name": "Анестезия",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 400,
@@ -1002,7 +1006,7 @@
         },
         {
           "name": "Предварительное бритье",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 400,
@@ -1040,6 +1044,10 @@
         {
           "city": "Москва",
           "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
         },
         {
           "city": "Москва",
@@ -1128,7 +1136,7 @@
         },
         {
           "name": "Ареолы",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -1147,7 +1155,7 @@
         {
           "name": "Бедра",
           "description": "Передняя/задняя/внутренняя часть",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 5190,
@@ -1165,7 +1173,7 @@
         },
         {
           "name": "Бедра полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 9190,
@@ -1195,7 +1203,7 @@
         },
         {
           "name": "Бикини глубокое/пах",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 4990,
@@ -1225,7 +1233,7 @@
         },
         {
           "name": "Бикини классическое",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3590,
@@ -1273,7 +1281,7 @@
         },
         {
           "name": "Голени с коленями",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 6990,
@@ -1303,7 +1311,7 @@
         },
         {
           "name": "Грудь полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 4390,
@@ -1333,7 +1341,7 @@
         },
         {
           "name": "Декольте",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3190,
@@ -1351,7 +1359,7 @@
         },
         {
           "name": "Живот полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3390,
@@ -1381,7 +1389,7 @@
         },
         {
           "name": "Живот, белая линия",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -1411,7 +1419,7 @@
         },
         {
           "name": "Кисти рук",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -1429,7 +1437,7 @@
         },
         {
           "name": "Кисти рук с пальцами",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -1447,7 +1455,7 @@
         },
         {
           "name": "Колени",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -1489,7 +1497,7 @@
         },
         {
           "name": "Лицо полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 5190,
@@ -1513,7 +1521,7 @@
         },
         {
           "name": "Лоб/щеки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2590,
@@ -1544,7 +1552,7 @@
         {
           "name": "Малая зона",
           "description": "Верхняя губа или подбородок",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -1574,7 +1582,7 @@
         },
         {
           "name": "Межъягодичная зона",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2590,
@@ -1592,7 +1600,7 @@
         },
         {
           "name": "Ноги полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 11990,
@@ -1622,7 +1630,7 @@
         },
         {
           "name": "Пальцы ног",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -1640,7 +1648,7 @@
         },
         {
           "name": "Пальцы рук",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 1590,
@@ -1658,7 +1666,7 @@
         },
         {
           "name": "Плечи",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2190,
@@ -1688,7 +1696,7 @@
         },
         {
           "name": "Подмышки",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2990,
@@ -1718,7 +1726,7 @@
         },
         {
           "name": "Подъём ног",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2190,
@@ -1736,7 +1744,7 @@
         },
         {
           "name": "Подъём ног с пальцами",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2790,
@@ -1754,7 +1762,7 @@
         },
         {
           "name": "Руки выше локтя",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3590,
@@ -1770,9 +1778,9 @@
             }
           }
         },
-       {
+        {
           "name": "Руки до локтя",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3990,
@@ -1799,10 +1807,10 @@
               "9_sessions": 21678
             }
           }
-        }, 
+        },
         {
           "name": "Руки полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 6190,
@@ -1829,11 +1837,11 @@
               "9_sessions": 30048
             }
           }
-        }, 
+        },
         {
           "name": "Спина нижняя треть",
           "description": "Поясница или крестец",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 3190,
@@ -1848,10 +1856,10 @@
               "top_card_price": 2190
             }
           }
-        }, 
+        },
         {
           "name": "Спина полностью",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 6990,
@@ -1878,11 +1886,11 @@
               "9_sessions": 35070
             }
           }
-        }, 
+        },
         {
           "name": "Шея",
           "description": " Передняя или задняя поверхность",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 2390,
@@ -1909,10 +1917,10 @@
               "9_sessions": 12471
             }
           }
-        }, 
+        },
         {
           "name": "Ягодицы",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 4390,
@@ -1939,7 +1947,7 @@
               "9_sessions": 23352
             }
           }
-        }, 
+        },
         {
           "name": "Full man body",
           "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя/задняя часть, бакенбарды/виски/нос",
@@ -1964,7 +1972,7 @@
               "9_sessions": 102867
             }
           }
-        }, 
+        },
         {
           "name": "Man face",
           "description": "Линия роста бороды, щеки, нос, шея, виски/банкенбарды",
@@ -1992,7 +2000,7 @@
         },
         {
           "name": "1 вспышка",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 70,
@@ -2006,7 +2014,7 @@
         },
         {
           "name": "Анестезия",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 400,
@@ -2020,7 +2028,7 @@
         },
         {
           "name": "Предварительное бритье",
-          "select": true,
+          "select": false,
           "prices": {
             "women": {
               "standard_price": 400,
@@ -2033,6 +2041,1630 @@
           }
         }
       ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "RF-лифтинг",
+      "equip": "RF-лифтинг Morpheus-8",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Веки",
+          "select": true ,
+          "prices": {
+              "standard_price": 34900
+          }
+        },
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+              "standard_price": 49900
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+              "standard_price": 42900
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+              "standard_price": 44900
+          }
+        },
+        {
+          "name": "Лицо полностью и шея/декольте",
+          "select": true ,
+          "prices": {
+              "standard_price": 69900
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+              "standard_price": 84900
+          }
+        },
+        {
+          "name": "Живот",
+          "select": false ,
+          "prices": {
+              "standard_price": 49900
+          }
+        },
+        {
+          "name": "Бедра",
+          "description": "Внешняя или внутренняя часть",
+          "select": false ,
+          "prices": {
+              "standard_price": 59900
+          }
+        },
+        {
+          "name": "Бедра полностью",
+          "select": false ,
+          "prices": {
+              "standard_price": 79900
+          }
+        },
+        {
+          "name": "Руки до локтя",
+          "select": false ,
+          "prices": {
+              "standard_price": 49900
+          }
+        },
+        {
+          "name": "Руки выше локтя",
+          "select": false ,
+          "prices": {
+              "standard_price": 59900
+          }
+        },
+        {
+          "name": "Руки полностью",
+          "select": false ,
+          "prices": {
+              "standard_price": 74900
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "select": false ,
+          "prices": {
+              "standard_price": 64900
+          }
+        },
+        {
+          "name": "Колени",
+          "select": false ,
+          "prices": {
+              "standard_price": 34900
+          }
+        },
+        {
+          "name": "Локти",
+          "select": false ,
+          "prices": {
+              "standard_price": 29900
+          }
+        },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "RF-лифтинг",
+      "equip": "RF-лифтинг ScarLet S",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+          "standard_price": 19900
+          },
+          "subscriptions": {
+              "regular": {
+              "3_sessions": 59700
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея",
+          "select": true ,
+          "prices": {
+              "standard_price": 27900
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 83700
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+              "standard_price": 34900
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 104700
+            }
+          }
+        },
+        {
+          "name": "Зона вокруг глаз",
+          "select": false ,
+          "prices": {
+              "standard_price": 12900
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+              "standard_price": 14900
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+              "standard_price": 14900
+          }
+        },
+        {
+          "name": "Живот",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 59700
+            }
+          }
+        },
+        {
+          "name": "Живот",
+          "description": "до 1500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 27900
+          }
+        },
+        {
+          "name": "Живот",
+          "description": "до 2000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 34900
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 59700
+            }
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "description": "до 1500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 27900
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "description": "до 2000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 34900
+          }
+        },
+        {
+          "name": "Колени и локти",
+          "description": "до 500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 14900
+          }
+        },
+        {
+          "name": "Колени и локти",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": false ,
+          "prices": {
+              "standard_price": 14900
+          }
+        },
+        {
+          "name": "Внутренняя поверхность плеч, локти, кисти рук",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          }
+        },
+        {
+          "name": "Внутренняя поверхность плеч, локти, кисти рук",
+          "description": "до 1500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 27900
+          }
+        },
+        {
+          "name": "Внутренняя поверхность бедер",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          }
+        },
+        {
+          "name": "Внутренняя поверхность бедер",
+          "description": "до 1500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 27900
+          }
+        },
+        {
+          "name": "Внутренняя поверхность бедер",
+          "description": "до 2000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 34900
+          }
+        },
+        {
+          "name": "Затылочная часть шея и воротниковая зона",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          }
+        },
+        {
+          "name": "Затылочная часть шея и воротниковая зона",
+          "description": "до 1500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 27900
+          }
+        },
+        {
+          "name": "Затылочная часть шея и воротниковая зона",
+          "description": "до 2000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 34900
+          }
+        },
+        {
+          "name": "Волосистая часть головы",
+          "description": "до 500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 14900
+          }
+        },
+        {
+          "name": "Волосистая часть головы",
+          "description": "до 1000 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 19900
+          }
+        },
+        {
+          "name": "Волосистая часть головы",
+          "description": "до 1500 степов",
+          "select": false ,
+          "prices": {
+              "standard_price": 27900
+          }
+        }
+      ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "RF-лифтинг",
+      "equip": "RF-лифтинг Venus Viva",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+              "standard_price": 16900
+          }
+        },
+        {
+          "name": "Лицо полностью и шея",
+          "select": true ,
+          "prices": {
+              "standard_price": 22900
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+              "standard_price": 27900
+          }
+        },
+        {
+          "name": "Внутренняя сторона плеча",
+          "select": false ,
+          "prices": {
+              "standard_price": 16900
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "select": false ,
+          "prices": {
+              "standard_price": 16900
+          }
+        },
+        {
+          "name": "Живот",
+          "select": false ,
+          "prices": {
+              "standard_price": 16900
+          }
+        },
+        {
+          "name": "Колени",
+          "select": false ,
+          "prices": {
+              "standard_price": 12900
+          }
+        },
+        {
+          "name": "Локти",
+          "select": false ,
+          "prices": {
+              "standard_price": 12900
+          }
+        }
+      ] 
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "Термолифтинг Venus Viva",
+      "equip": "Термолифтинг Venus Viva",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+              "standard_price": 3900
+          },
+          "subscriptions": {
+              "regular": {
+              "5_sessions": 17590
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея",
+          "select": true ,
+          "prices": {
+              "standard_price": 4900
+          },
+          "subscriptions": {
+              "regular": {
+              "5_sessions": 21990
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+              "standard_price": 5900
+          },
+          "subscriptions": {
+              "regular": {
+              "5_sessions": 26590
+            }
+          }
+        },
+        {
+          "name": "Внутренняя поверхность плеча",
+          "select": false ,
+          "prices": {
+              "standard_price": 4900
+          },
+          "subscriptions": {
+              "regular": {
+              "3_sessions": 21990
+            }
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "select": false ,
+          "prices": {
+              "standard_price": 4900
+          },
+          "subscriptions": {
+              "regular": {
+              "3_sessions": 21990
+            }
+          }
+        },
+        {
+          "name": "Живот",
+          "select": false ,
+          "prices": {
+              "standard_price": 4900
+          },
+          "subscriptions": {
+              "regular": {
+              "3_sessions": 21990
+            }
+          }
+        }
+      ] 
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "М22 / NORDLYS",
+      "equip": "Удаление пигментных пятен",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 11900,
+              "top_price": 14900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 32090
+            },
+            "top": {
+              "3_sessions": 40190
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея/декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 13900,
+              "top_price": 16900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 37490
+            },
+            "top": {
+              "3_sessions": 45590
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 16900,
+              "top_price": 19900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 45590
+            },
+            "top": {
+              "3_sessions": 53690
+            }
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 6990,
+              "top_price": 8990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 18790
+            },
+            "top": {
+              "3_sessions": 24190
+            }
+          }
+        },
+        {
+          "name": "Щеки",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 7990,
+              "top_price": 9990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 21490
+            },
+            "top": {
+              "3_sessions": 26890
+            }
+          }
+        },
+        {
+          "name": "Лоб",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 4990,
+              "top_price": 5990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13390
+            },
+            "top": {
+              "3_sessions": 16090
+            }
+          }
+        },
+        {
+          "name": "Нос",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 4490,
+              "top_price": 5490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 12090
+            },
+            "top": {
+              "3_sessions": 14790
+            }
+          }
+        },
+        {
+          "name": "Подбородок",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 4990,
+              "top_price": 5990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13990
+            },
+            "top": {
+              "3_sessions": 16090
+            }
+          }
+        },
+        {
+          "name": "Виски",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 4990,
+              "top_price": 5990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13990
+            },
+            "top": {
+              "3_sessions": 16090
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "top_price": 11900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 26690
+            },
+            "top": {
+              "3_sessions": 32090
+            }
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 6900,
+              "top_price": 8900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 18590
+            },
+            "top": {
+              "3_sessions": 23990
+            }
+          }
+        }
+      ] 
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "М22 / NORDLYS",
+      "equip": "Фотоомоложение (усиленная программа)",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 13900,
+              "top_price": 16900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 37490
+            },
+            "top": {
+              "3_sessions": 45590
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея/декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 17900,
+              "top_price": 20900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 48290
+            },
+            "top": {
+              "3_sessions": 56390
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "top_price": 27900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 67190
+            },
+            "top": {
+              "3_sessions": 75290
+            }
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 7900,
+              "top_price": 9900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 21290
+            },
+            "top": {
+              "3_sessions": 26690
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 10900,
+              "top_price": 13900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 29390
+            },
+            "top": {
+              "3_sessions": 37490
+            }
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "top_price": 10900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 23990
+            },
+            "top": {
+              "3_sessions": 29390
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "М22 / NORDLYS",
+      "equip": "Фотолечение акне",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "top_price": 11900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 26690
+            },
+            "top": {
+              "3_sessions": 32090
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея/декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 12900,
+              "top_price": 15900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 34790
+            },
+            "top": {
+              "3_sessions": 42890
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 15900,
+              "top_price": 18900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 42890
+            },
+            "top": {
+              "3_sessions": 50990
+            }
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 5900,
+              "top_price": 7900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 15890
+            },
+            "top": {
+              "3_sessions": 21290
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "top_price": 10900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 23990
+            },
+            "top": {
+              "3_sessions": 29390
+            }
+          }
+        },
+        {
+          "name": "Щеки",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 6990,
+              "top_price": 8990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 18790
+            },
+            "top": {
+              "3_sessions": 24190
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "М22 / NORDLYS",
+      "equip": "Лазерная шлифовка",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 16900,
+              "top_price": 19900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 45590
+            },
+            "top": {
+              "3_sessions": 53690
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея/декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 19900,
+              "top_price": 22900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 53690
+            },
+            "top": {
+              "3_sessions": 61790
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "top_price": 24900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 59090
+            },
+            "top": {
+              "3_sessions": 67190
+            }
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "top_price": 11900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 26690
+            },
+            "top": {
+              "3_sessions": 32090
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 10900,
+              "top_price": 13900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 29390
+            },
+            "top": {
+              "3_sessions": 37490
+            }
+          }
+        },
+        {
+          "name": "Щеки",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "top_price": 10900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 23990
+            },
+            "top": {
+              "3_sessions": 29390
+            }
+          }
+        },
+        {
+          "name": "Лоб",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 6900,
+              "top_price": 8900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 18590
+            },
+            "top": {
+              "3_sessions": 29990
+            }
+          }
+        },
+        {
+          "name": "Виски",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 6900,
+              "top_price": 8900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 18590
+            },
+            "top": {
+              "3_sessions": 29990
+            }
+          }
+        },
+        {
+          "name": "Нос",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 5900,
+              "top_price": 7900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 15890
+            },
+            "top": {
+              "3_sessions": 21290
+            }
+          }
+        },
+        {
+          "name": "Подбородок",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 5900,
+              "top_price": 7900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 15890
+            },
+            "top": {
+              "3_sessions": 21290
+            }
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "top_price": 11900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 26690
+            },
+            "top": {
+              "3_sessions": 32090
+            }
+          }
+        },
+        {
+          "name": "Живот",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "top_price": 21900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 50990
+            },
+            "top": {
+              "3_sessions": 59090
+            }
+          }
+        },
+        {
+          "name": "Ягодицы",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "top_price": 21900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 50990
+            },
+            "top": {
+              "3_sessions": 59090
+            }
+          }
+        },
+        {
+          "name": "Передняя или задняя поверность бедер",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 19900,
+              "top_price": 22900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 53690
+            },
+            "top": {
+              "3_sessions": 61790
+            }
+          }
+        },
+        {
+          "name": "Волосистая часть головы",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "top_price": 10900
+            }
+          }
+        },
+        {
+          "name": "Сужение пор",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "top_price": 11900
+            }
+          }
+        },
+        {
+          "name": "Удаление шрамов/рубцов до 3 см2 (за 1 см)",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 1190,
+              "top_price": 2190
+            }
+          }
+        },
+        {
+          "name": "Удаление шрамов/рубцов от 4 см2 до 10 см2 (за 1 см)",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 1090,
+              "top_price": 2090
+            }
+          }
+        },
+        {
+          "name": "Удаление шрамов/рубцов от 11 см2 до 20 см2 (за 1 см)",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 990,
+              "top_price": 1990
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "М22 / NORDLYS",
+      "equip": "Удаление сосудов",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "top_price": 11900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 26690
+            },
+            "top": {
+              "3_sessions": 32090
+            }
+          }
+        },
+        {
+          "name": "Нос",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 4900,
+              "top_price": 5900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13190
+            },
+            "top": {
+              "3_sessions": 15890
+            }
+          }
+        },
+        {
+          "name": "Щеки",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 5900,
+              "top_price": 7900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 15890
+            },
+            "top": {
+              "3_sessions": 21290
+            }
+          }
+        },
+        {
+          "name": "Лоб",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 4900,
+              "top_price": 5900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13190
+            },
+            "top": {
+              "3_sessions": 15890
+            }
+          }
+        },
+        {
+          "name": "Подбородок",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 3900,
+              "top_price": 4900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 10490
+            },
+            "top": {
+              "3_sessions": 13190
+            }
+          }
+        },
+        {
+          "name": "1 вспышка",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 890,
+              "top_price": 1890
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "LUMECCA",
+      "equip": "Фотоомоложение (усиленная программа)",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+         "services": [
+        {
+          "name": "Лицо полностью",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 13900,
+              "top_price": 16900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 37490
+            },
+            "top": {
+              "3_sessions": 45590
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью и шея /декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 17900,
+              "top_price": 20900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 48290
+            },
+            "top": {
+              "3_sessions": 56390
+            }
+          }
+        },
+        {
+          "name": "Лицо полностью, шея и декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "top_price": 27900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 67190
+            },
+            "top": {
+              "3_sessions": 75290
+            }
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 7900,
+              "top_price": 9900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 21290
+            },
+            "top": {
+              "3_sessions": 26690
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 10900,
+              "top_price": 13900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 29390
+            },
+            "top": {
+              "3_sessions": 37490
+            }
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "top_price": 10900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 23990
+            },
+            "top": {
+              "3_sessions": 29390
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Аппаратная косметология",
+      "subcategory": "Фотодинамическая терапия Heleo-4",
+      "equip": "ФДТ HELEO-4",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        }
+      ],
+         "services": [
+        {
+          "name": "Фотодинамическая терапия LED",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 2000
+            }
+          }
+        },
+        {
+          "name": "Декольте",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 5900
+            }
+          }
+        },
+        {
+          "name": "Кисти рук",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 5900
+            }
+          }
+        },
+        {
+          "name": "Лицо",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 5900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 15890
+            }
+          }
+        },
+        {
+          "name": "Лицо и шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 7900
+            }
+          }
+        },
+        {
+          "name": "Лицо, шея и декольте",
+          "select": true ,
+          "prices": {
+            "women": {
+              "standard_price": 8900
+            }
+          }
+        },
+        {
+          "name": "Спина",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 8900
+            }
+          }
+        },
+        {
+          "name": "Шея",
+          "select": false ,
+          "prices": {
+            "women": {
+              "standard_price": 3900
+            }
+          }
+        }
+      ]
     }
-  ]
+  ] 
+}
+]
 }
