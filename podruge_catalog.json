@@ -134,7 +134,7 @@
         },
         {
           "name": "Бедра",
-          "description": "Передняя / задняя / внутренняя часть",
+          "description": "Передняя/задняя/внутренняя часть",
           "select": false,
           "prices": {
             "women": {
@@ -194,7 +194,7 @@
           }
         },
         {
-          "name": "Бикини глубокое / пах",
+          "name": "Бикини глубокое/пах",
           "select": true,
           "prices": {
             "women": {
@@ -254,7 +254,7 @@
           }
         },
         {
-          "name": "Виски / бакенбарды / нос",
+          "name": "Виски/бакенбарды/нос",
           "select": false,
           "prices": {
             "women": {
@@ -512,7 +512,7 @@
           }
         },
         {
-          "name": "Лоб / щеки",
+          "name": "Лоб/щеки",
           "select": false,
           "prices": {
             "women": {
@@ -942,7 +942,7 @@
         },
         {
           "name": "Full man body",
-          "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя / задняя часть, бакенбарды / виски / нос",
+          "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя/задняя часть, бакенбарды/виски/нос",
           "select": true,
           "prices": {
             "men": {
@@ -967,7 +967,7 @@
         },
         {
           "name": "Man face",
-          "description": "Линия роста бороды, щеки, нос, шея, виски / банкенбарды",
+          "description": "Линия роста бороды, щеки, нос, шея, виски/банкенбарды",
           "select": true,
           "prices": {
             "men": {
@@ -1154,7 +1154,7 @@
         },
         {
           "name": "Бедра",
-          "description": "Передняя / задняя / внутренняя часть",
+          "description": "Передняя/задняя/внутренняя часть",
           "select": false,
           "prices": {
             "women": {
@@ -1202,7 +1202,7 @@
           }
         },
         {
-          "name": "Бикини глубокое / пах",
+          "name": "Бикини глубокое/пах",
           "select": true,
           "prices": {
             "women": {
@@ -1262,7 +1262,7 @@
           }
         },
         {
-          "name": "Виски / бакенбарды / нос",
+          "name": "Виски/бакенбарды/нос",
           "select": false,
           "prices": {
             "women": {
@@ -1520,7 +1520,7 @@
           }
         },
         {
-          "name": "Лоб / щеки",
+          "name": "Лоб/щеки",
           "select": false,
           "prices": {
             "women": {
@@ -1950,7 +1950,7 @@
         },
         {
           "name": "Full man body",
-          "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя / задняя часть, бакенбарды / виски / нос",
+          "description": "Подмышки, пах полностью, спина полностью, грудь полностью, шея передняя/задняя часть, бакенбарды/виски/нос",
           "select": true,
           "prices": {
             "men": {
@@ -1975,7 +1975,7 @@
         },
         {
           "name": "Man face",
-          "description": "Линия роста бороды, щеки, нос, шея, виски / банкенбарды",
+          "description": "Линия роста бороды, щеки, нос, шея, виски/банкенбарды",
           "select": true,
           "prices": {
             "men": {
@@ -2057,49 +2057,49 @@
           "name": "Веки",
           "select": true,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           }
         },
         {
           "name": "Лицо полностью",
           "select": true,
           "prices": {
-              "standard_price": 49900
+            "standard_price": 49900
           }
         },
         {
           "name": "Шея",
           "select": false,
           "prices": {
-              "standard_price": 42900
+            "standard_price": 42900
           }
         },
         {
           "name": "Декольте",
           "select": false,
           "prices": {
-              "standard_price": 44900
+            "standard_price": 44900
           }
         },
         {
-          "name": "Лицо полностью и шея / декольте",
+          "name": "Лицо полностью и шея/декольте",
           "select": true,
           "prices": {
-              "standard_price": 69900
+            "standard_price": 69900
           }
         },
         {
           "name": "Лицо полностью, шея и декольте",
           "select": true,
           "prices": {
-              "standard_price": 84900
+            "standard_price": 84900
           }
         },
         {
           "name": "Живот",
           "select": false,
           "prices": {
-              "standard_price": 49900
+            "standard_price": 49900
           }
         },
         {
@@ -2107,56 +2107,56 @@
           "description": "Внешняя или внутренняя часть",
           "select": false,
           "prices": {
-              "standard_price": 59900
+            "standard_price": 59900
           }
         },
         {
           "name": "Бедра полностью",
           "select": false,
           "prices": {
-              "standard_price": 79900
+            "standard_price": 79900
           }
         },
         {
           "name": "Руки до локтя",
           "select": false,
           "prices": {
-              "standard_price": 49900
+            "standard_price": 49900
           }
         },
         {
           "name": "Руки выше локтя",
           "select": false,
           "prices": {
-              "standard_price": 59900
+            "standard_price": 59900
           }
         },
         {
           "name": "Руки полностью",
           "select": false,
           "prices": {
-              "standard_price": 74900
+            "standard_price": 74900
           }
         },
         {
           "name": "Ягодицы",
           "select": false,
           "prices": {
-              "standard_price": 64900
+            "standard_price": 64900
           }
         },
         {
           "name": "Колени",
           "select": false,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           }
         },
         {
           "name": "Локти",
           "select": false,
           "prices": {
-              "standard_price": 29900
+            "standard_price": 29900
           }
         }
       ]
@@ -2176,10 +2176,10 @@
           "name": "Лицо полностью",
           "select": true,
           "prices": {
-          "standard_price": 19900
+            "standard_price": 19900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "3_sessions": 59700
             }
           }
@@ -2188,7 +2188,7 @@
           "name": "Лицо полностью и шея",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           },
           "subscriptions": {
             "regular": {
@@ -2200,7 +2200,7 @@
           "name": "Лицо полностью, шея и декольте",
           "select": true,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           },
           "subscriptions": {
             "regular": {
@@ -2212,21 +2212,21 @@
           "name": "Зона вокруг глаз",
           "select": true,
           "prices": {
-              "standard_price": 12900
+            "standard_price": 12900
           }
         },
         {
           "name": "Шея",
           "select": false,
           "prices": {
-              "standard_price": 14900
+            "standard_price": 14900
           }
         },
         {
           "name": "Декольте",
           "select": false,
           "prices": {
-              "standard_price": 14900
+            "standard_price": 14900
           }
         },
         {
@@ -2234,7 +2234,7 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           },
           "subscriptions": {
             "regular": {
@@ -2247,7 +2247,7 @@
           "description": "до 1500 степов",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         },
         {
@@ -2255,7 +2255,7 @@
           "description": "до 2000 степов",
           "select": false,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           }
         },
         {
@@ -2263,7 +2263,7 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           },
           "subscriptions": {
             "regular": {
@@ -2276,7 +2276,7 @@
           "description": "до 1500 степов",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         },
         {
@@ -2284,7 +2284,7 @@
           "description": "до 2000 степов",
           "select": false,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           }
         },
         {
@@ -2292,7 +2292,7 @@
           "description": "до 500 степов",
           "select": false,
           "prices": {
-              "standard_price": 14900
+            "standard_price": 14900
           }
         },
         {
@@ -2300,14 +2300,14 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           }
         },
         {
           "name": "Кисти рук",
           "select": false,
           "prices": {
-              "standard_price": 14900
+            "standard_price": 14900
           }
         },
         {
@@ -2315,7 +2315,7 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           }
         },
         {
@@ -2323,7 +2323,7 @@
           "description": "до 1500 степов",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         },
         {
@@ -2331,7 +2331,7 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           }
         },
         {
@@ -2339,7 +2339,7 @@
           "description": "до 1500 степов",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         },
         {
@@ -2347,7 +2347,7 @@
           "description": "до 2000 степов",
           "select": false,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           }
         },
         {
@@ -2355,7 +2355,7 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           }
         },
         {
@@ -2363,7 +2363,7 @@
           "description": "до 1500 степов",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         },
         {
@@ -2371,7 +2371,7 @@
           "description": "до 2000 степов",
           "select": false,
           "prices": {
-              "standard_price": 34900
+            "standard_price": 34900
           }
         },
         {
@@ -2379,7 +2379,7 @@
           "description": "до 500 степов",
           "select": false,
           "prices": {
-              "standard_price": 14900
+            "standard_price": 14900
           }
         },
         {
@@ -2387,7 +2387,7 @@
           "description": "до 1000 степов",
           "select": false,
           "prices": {
-              "standard_price": 19900
+            "standard_price": 19900
           }
         },
         {
@@ -2395,7 +2395,7 @@
           "description": "до 1500 степов",
           "select": false,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         }
       ]
@@ -2410,64 +2410,64 @@
           "address": "ул. Александра Солженицына, д. 1/5"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
           "prices": {
-              "standard_price": 16900
+            "standard_price": 16900
           }
         },
         {
           "name": "Лицо полностью и шея",
           "select": false,
           "prices": {
-              "standard_price": 22900
+            "standard_price": 22900
           }
         },
         {
           "name": "Лицо полностью, шея и декольте",
           "select": true,
           "prices": {
-              "standard_price": 27900
+            "standard_price": 27900
           }
         },
         {
           "name": "Внутренняя сторона плеча",
           "select": false,
           "prices": {
-              "standard_price": 16900
+            "standard_price": 16900
           }
         },
         {
           "name": "Ягодицы",
           "select": false,
           "prices": {
-              "standard_price": 16900
+            "standard_price": 16900
           }
         },
         {
           "name": "Живот",
           "select": false,
           "prices": {
-              "standard_price": 16900
+            "standard_price": 16900
           }
         },
         {
           "name": "Колени",
           "select": false,
           "prices": {
-              "standard_price": 12900
+            "standard_price": 12900
           }
         },
         {
           "name": "Локти",
           "select": false,
           "prices": {
-              "standard_price": 12900
+            "standard_price": 12900
           }
         }
-      ] 
+      ]
     },
     {
       "category": "Аппаратная косметология",
@@ -2479,15 +2479,15 @@
           "address": "ул. Александра Солженицына, д. 1/5"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
           "prices": {
-              "standard_price": 3900
+            "standard_price": 3900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "5_sessions": 17590
             }
           }
@@ -2496,10 +2496,10 @@
           "name": "Лицо полностью и шея",
           "select": false,
           "prices": {
-              "standard_price": 4900
+            "standard_price": 4900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "5_sessions": 21990
             }
           }
@@ -2508,10 +2508,10 @@
           "name": "Лицо полностью, шея и декольте",
           "select": true,
           "prices": {
-              "standard_price": 5900
+            "standard_price": 5900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "5_sessions": 26590
             }
           }
@@ -2520,10 +2520,10 @@
           "name": "Внутренняя поверхность плеча",
           "select": false,
           "prices": {
-              "standard_price": 4900
+            "standard_price": 4900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "3_sessions": 21990
             }
           }
@@ -2532,10 +2532,10 @@
           "name": "Ягодицы",
           "select": false,
           "prices": {
-              "standard_price": 4900
+            "standard_price": 4900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "3_sessions": 21990
             }
           }
@@ -2544,15 +2544,15 @@
           "name": "Живот",
           "select": false,
           "prices": {
-              "standard_price": 4900
+            "standard_price": 4900
           },
           "subscriptions": {
-              "regular": {
+            "regular": {
               "3_sessions": 21990
             }
           }
         }
-      ] 
+      ]
     },
     {
       "category": "Аппаратная косметология",
@@ -2568,7 +2568,7 @@
           "address": "ул. Сретенка, д. 27, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -2588,7 +2588,7 @@
           }
         },
         {
-          "name": "Лицо полностью и шея / декольте",
+          "name": "Лицо полностью и шея/декольте",
           "select": false,
           "prices": {
             "women": {
@@ -2767,7 +2767,7 @@
             }
           }
         }
-      ] 
+      ]
     },
     {
       "category": "Аппаратная косметология",
@@ -2783,7 +2783,7 @@
           "address": "ул. Сретенка, д. 27, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -2803,7 +2803,7 @@
           }
         },
         {
-          "name": "Лицо полностью и шея / декольте",
+          "name": "Лицо полностью и шея/декольте",
           "select": false,
           "prices": {
             "women": {
@@ -2908,7 +2908,7 @@
           "address": "ул. Сретенка, д. 27, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -2928,7 +2928,7 @@
           }
         },
         {
-          "name": "Лицо полностью и шея / декольте",
+          "name": "Лицо полностью и шея/декольте",
           "select": false,
           "prices": {
             "women": {
@@ -3033,7 +3033,7 @@
           "address": "ул. Сретенка, д. 27, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -3053,7 +3053,7 @@
           }
         },
         {
-          "name": "Лицо полностью и шея / декольте",
+          "name": "Лицо полностью и шея/декольте",
           "select": false,
           "prices": {
             "women": {
@@ -3307,7 +3307,7 @@
           }
         },
         {
-          "name": "Удаление шрамов / рубцов до 3 см2 (за 1 см)",
+          "name": "Удаление шрамов/рубцов до 3 см2 (за 1 см)",
           "select": false,
           "prices": {
             "women": {
@@ -3317,7 +3317,7 @@
           }
         },
         {
-          "name": "Удаление шрамов / рубцов от 4 см2 до 10 см2 (за 1 см)",
+          "name": "Удаление шрамов/рубцов от 4 см2 до 10 см2 (за 1 см)",
           "select": false,
           "prices": {
             "women": {
@@ -3327,7 +3327,7 @@
           }
         },
         {
-          "name": "Удаление шрамов / рубцов от 11 см2 до 20 см2 (за 1 см)",
+          "name": "Удаление шрамов/рубцов от 11 см2 до 20 см2 (за 1 см)",
           "select": false,
           "prices": {
             "women": {
@@ -3338,7 +3338,7 @@
         }
       ]
     },
-     {
+    {
       "category": "Аппаратная косметология",
       "subcategory": "М22 / NORDLYS",
       "equip": "Удаление сосудов",
@@ -3352,7 +3352,7 @@
           "address": "ул. Сретенка, д. 27, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -3465,7 +3465,7 @@
           "address": "Кутузовский пр., д. 34, стр. 14"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -3586,7 +3586,7 @@
           "address": "Леонтьевский пер., д. 21/1, стр. 1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Фотодинамическая терапия LED",
           "select": false,
@@ -3666,7 +3666,7 @@
         }
       ]
     },
-{
+    {
       "category": "Аппаратная косметология",
       "subcategory": "BBL",
       "equip": "BBL Forever Young",
@@ -3684,7 +3684,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Кисти рук",
           "select": false,
@@ -3812,7 +3812,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Щеки",
           "select": false,
@@ -3930,7 +3930,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Шея",
           "select": false,
@@ -4089,7 +4089,7 @@
           }
         },
         {
-          "name": "Бедра внешняя / внутренняя часть",
+          "name": "Бедра внешняя/внутренняя часть",
           "select": false,
           "prices": {
             "women": {
@@ -4126,7 +4126,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "1 вспышка",
           "select": false,
@@ -4313,7 +4313,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Нос",
           "select": false,
@@ -4462,7 +4462,7 @@
           "address": "ул. Лесная, д. 1/2"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Базовая программа",
           "description": "Лицо полностью",
@@ -4582,7 +4582,7 @@
           "city": "Москва",
           "address": "Кутузовский пр., д. 34, стр. 14"
         },
-         {
+        {
           "city": "Москва",
           "address": "ул. Сретенка, д. 27, стр.1"
         },
@@ -4599,7 +4599,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Лицо полностью",
           "select": true,
@@ -4635,7 +4635,7 @@
           "city": "Москва",
           "address": "Кутузовский пр., д. 34, стр. 14"
         },
-         {
+        {
           "city": "Москва",
           "address": "ул. Сретенка, д. 27, стр.1"
         },
@@ -4652,7 +4652,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Сосудистая звездочка 1 шт.",
           "select": true,
@@ -4748,7 +4748,7 @@
           "city": "Москва",
           "address": "Кутузовский пр., д. 34, стр. 14"
         },
-         {
+        {
           "city": "Москва",
           "address": "ул. Сретенка, д. 27, стр.1"
         },
@@ -4765,7 +4765,7 @@
           "address": "проспект Вернадского, д. 41, стр.1"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "1 вспышка",
           "select": false,
@@ -4916,7 +4916,7 @@
           "address": "2-я Брестская ул., д. 24"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": " Эффект фотошопа, экспресс",
           "description": "Лицо полностью",
@@ -4973,7 +4973,7 @@
           "address": "Кутузовский пр., д. 34, стр. 14"
         }
       ],
-         "services": [
+      "services": [
         {
           "name": "Тренировка мышц тазового дна Emsella",
           "select": false,
@@ -4997,6 +4997,2874 @@
           }
         }
       ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Биоревитализация",
+      "equip": "Инъекционная",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Novacutan SBio (20+), 2 ml",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 16900,
+              "club_card_price": 14900,
+              "top_price": 19900,
+              "top_card_price": 17900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 42390,
+              "5_sessions": 69190
+            },
+            "top": {
+              "3_sessions": 50990,
+              "5_sessions": 83190
+            }
+          }
+        },
+        {
+          "name": "Novacutan YBio (35+), 2 ml",
+          "select": true,
+          "prices": {
+            "women": {
+              "standard_price": 16900,
+              "club_card_price": 14900,
+              "top_price": 19900,
+              "top_card_price": 17900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 42390,
+              "5_sessions": 69190
+            },
+            "top": {
+              "3_sessions": 50990,
+              "5_sessions": 83190
+            }
+          }
+        },
+        {
+          "name": "Revi Eye 1%, 1 ml",
+          "description": "зона вокрг глаз",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 17900,
+              "club_card_price": 15900,
+              "top_price": 20900,
+              "top_card_price": 18900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 45290,
+              "5_sessions": 73890
+            },
+            "top": {
+              "3_sessions": 53790,
+              "5_sessions": 87790
+            }
+          }
+        },
+        {
+          "name": "Revi Silk 1,2%, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "club_card_price": 16900,
+              "top_price": 21900,
+              "top_card_price": 19900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 48090,
+              "5_sessions": 78490
+            },
+            "top": {
+              "3_sessions": 56690,
+              "5_sessions": 92490
+            }
+          }
+        },
+        {
+          "name": "Revi Silk 1,2%, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 27900,
+              "club_card_price": 25900,
+              "top_price": 30900,
+              "top_card_price": 28900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 73790,
+              "5_sessions": 120390
+            },
+            "top": {
+              "3_sessions": 82290,
+              "5_sessions": 134290
+            }
+          }
+        },
+        {
+          "name": "Revi Strong 1,5%, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "club_card_price": 20900,
+              "top_price": 21900,
+              "top_card_price": 23900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 53790,
+              "5_sessions": 87790
+            },
+            "top": {
+              "3_sessions": 62390,
+              "5_sessions": 101790
+            }
+          }
+        },
+        {
+          "name": "Revi Strong 1,5%, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 28900,
+              "club_card_price": 26900,
+              "top_price": 29900,
+              "top_card_price": 31900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 76590,
+              "5_sessions": 124990
+            },
+            "top": {
+              "3_sessions": 85190,
+              "5_sessions": 138990
+            }
+          }
+        },
+        {
+          "name": "Profhilo, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 26900,
+              "club_card_price": 24900,
+              "top_price": 29900,
+              "top_card_price": 27900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 70890,
+              "5_sessions": 115690
+            },
+            "top": {
+              "3_sessions": 79490,
+              "5_sessions": 129690
+            }
+          }
+        },
+        {
+          "name": "Profhilo Body Kit, 3 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 36900,
+              "club_card_price": 34900,
+              "top_price": 39900,
+              "top_card_price": 37900
+            }
+          }
+        },
+        {
+          "name": "Profhilo Body Kit, 6 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 69900,
+              "club_card_price": 67900,
+              "top_price": 72900,
+              "top_card_price": 70900
+            }
+          }
+        },
+        {
+          "name": "Premierpharm Meso-Xanthin Р199,  1,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "club_card_price": 19900,
+              "top_price": 24900,
+              "top_card_price": 22900
+            }
+          }
+        },
+        {
+          "name": "Premierpharm Meso-Wharton 199,  1,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "club_card_price": 19900,
+              "top_price": 24900,
+              "top_card_price": 22900
+            }
+          }
+        },
+        {
+          "name": "Premierpharm MesoSculpt С71,  1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "club_card_price": 19900,
+              "top_price": 24900,
+              "top_card_price": 22900
+            }
+          }
+        },
+        {
+          "name": "Premierpharm MesoEye 71,  1 ml",
+          "description": "зона вокрг глаз",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "club_card_price": 19900,
+              "top_price": 24900,
+              "top_card_price": 22900
+            }
+          }
+        },
+        {
+          "name": "Plinest, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "club_card_price": 16900,
+              "top_price": 21900,
+              "top_card_price": 19900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 48090,
+              "5_sessions": 78490
+            },
+            "top": {
+              "3_sessions": 56690,
+              "5_sessions": 92490
+            }
+          }
+        },
+        {
+          "name": "Plinest fast, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "club_card_price": 16900,
+              "top_price": 21900,
+              "top_card_price": 19900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 48090,
+              "5_sessions": 78490
+            },
+            "top": {
+              "3_sessions": 56690,
+              "5_sessions": 92490
+            }
+          }
+        },
+        {
+          "name": "Jalupro, 3 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 14900,
+              "club_card_price": 12900,
+              "top_price": 17900,
+              "top_card_price": 15900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 36690,
+              "5_sessions": 59890
+            },
+            "top": {
+              "3_sessions": 45290,
+              "5_sessions": 73890
+            }
+          }
+        },
+        {
+          "name": "Jalupro HMW, 1,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 19900,
+              "club_card_price": 17900,
+              "top_price": 22900,
+              "top_card_price": 20900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 50990,
+              "5_sessions": 83190
+            },
+            "top": {
+              "3_sessions": 59490,
+              "5_sessions": 97090
+            }
+          }
+        },
+        {
+          "name": "ДНК лосося (ПДРН)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "club_card_price": 19900,
+              "top_price": 24900,
+              "top_card_price": 22900
+            }
+          }
+        },
+        {
+          "name": "ДНК лосося (ПДРН). Интенсив",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "club_card_price": 22900,
+              "top_price": 27900,
+              "top_card_price": 25900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Плацентарная биоревитализация",
+      "equip": "Плацентарная биоревитализация",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Laennec, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6900,
+              "club_card_price": 4900,
+              "top_price": 8900,
+              "top_card_price": 5900
+            }
+          }
+        },
+        {
+          "name": "Curacen, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 9900,
+              "club_card_price": 7900,
+              "top_price": 11900,
+              "top_card_price": 9900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Контурная пластика",
+      "equip": "Контурная пластика",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Juvederm ULTRA SMILE, 0,55 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21900,
+              "club_card_price": 19900,
+              "top_price": 24900,
+              "top_card_price": 22900
+            }
+          }
+        },
+        {
+          "name": "Juvederm ULTRA 3, 1,0 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 26900,
+              "club_card_price": 24900,
+              "top_price": 29900,
+              "top_card_price": 27900
+            }
+          }
+        },
+        {
+          "name": "Juvederm VOLIFT, 1,0 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 28900,
+              "club_card_price": 26900,
+              "top_price": 31900,
+              "top_card_price": 29900
+            }
+          }
+        },
+        {
+          "name": "Juvederm VOLITE, 1,0 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 29900,
+              "club_card_price": 27900,
+              "top_price": 32900,
+              "top_card_price": 30900
+            }
+          }
+        },
+        {
+          "name": "Juvederm VOLUMA, 1,0 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 29900,
+              "club_card_price": 27900,
+              "top_price": 32900,
+              "top_card_price": 30900
+            }
+          }
+        },
+        {
+          "name": "Merz AESTHETICS Radiesse, 1,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 31900,
+              "club_card_price": 29900,
+              "top_price": 34900,
+              "top_card_price": 32900
+            }
+          }
+        },
+        {
+          "name": "Merz AESTHETICS Radiesse, 3 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 51900,
+              "club_card_price": 49900,
+              "top_price": 54900,
+              "top_card_price": 52900
+            }
+          }
+        },
+        {
+          "name": "Stylage М, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "club_card_price": 22900,
+              "top_price": 27900,
+              "top_card_price": 25900
+            }
+          }
+        },
+        {
+          "name": "Stylage L, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 25900,
+              "club_card_price": 23900,
+              "top_price": 28900,
+              "top_card_price": 26900
+            }
+          }
+        },
+        {
+          "name": "Stylage XL, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 27900,
+              "club_card_price": 25900,
+              "top_price": 30900,
+              "top_card_price": 28900
+            }
+          }
+        },
+        {
+          "name": "Belotero Soft, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 20900,
+              "club_card_price": 18900,
+              "top_price": 23900,
+              "top_card_price": 21900
+            }
+          }
+        },
+        {
+          "name": "Belotero Balance, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 20900,
+              "club_card_price": 18900,
+              "top_price": 23900,
+              "top_card_price": 21900
+            }
+          }
+        },
+        {
+          "name": "Belotero Volume, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "club_card_price": 22900,
+              "top_price": 27900,
+              "top_card_price": 25900
+            }
+          }
+        },
+        {
+          "name": "Belotero Lips Shape, 0,6 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 20900,
+              "club_card_price": 18900,
+              "top_price": 23900,
+              "top_card_price": 21900
+            }
+          }
+        },
+        {
+          "name": "Мезонить МОНО, 1 нить",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3500,
+              "club_card_price": 1190,
+              "top_price": 4500,
+              "top_card_price": 2190
+            }
+          }
+        },
+        {
+          "name": "Мезонить COG, 1 нить",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 7000,
+              "club_card_price": 4990,
+              "top_price": 9000,
+              "top_card_price": 5990
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Коллагенотерапия",
+      "equip": "Коллагенотерапия",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "AestheFill, 10 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 53900,
+              "club_card_price": 51900,
+              "top_price": 56900,
+              "top_card_price": 54900
+            }
+          }
+        },
+        {
+          "name": "Repart PLA - 1, 10 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 36900,
+              "club_card_price": 34900,
+              "top_price": 39900,
+              "top_card_price": 37900
+            }
+          }
+        },
+        {
+          "name": "Collost 7%,  0,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 14900,
+              "club_card_price": 12900,
+              "top_price": 17900,
+              "top_card_price": 15900
+            }
+          }
+        },
+        {
+          "name": "Collost 7%, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 16900,
+              "club_card_price": 14900,
+              "top_price": 19900,
+              "top_card_price": 17900
+            }
+          }
+        },
+        {
+          "name": "Collost 7%, 1,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 18900,
+              "club_card_price": 16900,
+              "top_price": 21900,
+              "top_card_price": 19900
+            }
+          }
+        },
+        {
+          "name": "Collost Micro, 5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 23900,
+              "club_card_price": 21900,
+              "top_price": 26900,
+              "top_card_price": 24900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 62390,
+              "5_sessions": 101790
+            },
+            "top": {
+              "3_sessions": 70890,
+              "5_sessions": 115690
+            }
+          }
+        },
+        {
+          "name": "Collost Micro, 5 ml с плазмой",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 26900,
+              "club_card_price": 24900,
+              "top_price": 29900,
+              "top_card_price": 27900
+            }
+          }
+        },
+        {
+          "name": "BioHyalux Mevita C, 4 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 19900,
+              "club_card_price": 17900,
+              "top_price": 22900,
+              "top_card_price": 20900
+            }
+          }
+        },
+        {
+          "name": "Nithya 1,   5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "club_card_price": 22900,
+              "top_price": 27900,
+              "top_card_price": 25900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 65190,
+              "5_sessions": 106390
+            },
+            "top": {
+              "3_sessions": 73790,
+              "5_sessions": 120390
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Light, 0,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 11900,
+              "club_card_price": 9900,
+              "top_price": 14900,
+              "top_card_price": 11900
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Medium, 0,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 15900,
+              "club_card_price": 13900,
+              "top_price": 18900,
+              "top_card_price": 16900
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Long Fine, 0,5 ml",
+          "description": "зона вокруг глаз",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 25900,
+              "club_card_price": 23900,
+              "top_price": 28900,
+              "top_card_price": 26900
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Long Advanced, 0,5 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 22900,
+              "club_card_price": 20900,
+              "top_price": 25900,
+              "top_card_price": 23900
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Light, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 19900,
+              "club_card_price": 17900,
+              "top_price": 22900,
+              "top_card_price": 20900
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Medium, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24900,
+              "club_card_price": 22900,
+              "top_price": 27900,
+              "top_card_price": 25900
+            }
+          }
+        },
+        {
+          "name": "СФЕРОгель Long Advanced, 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 37900,
+              "club_card_price": 35900,
+              "top_price": 40900,
+              "top_card_price": 38900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Мезотерапия",
+      "equip": "Мезотерапия",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Mesoline Clear / Shine / Refresh / Tight",
+          "description": "лицо",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 7900,
+              "club_card_price": 5900,
+              "top_price": 9900,
+              "top_card_price": 7900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 16790,
+              "5_sessions": 27390
+            },
+            "top": {
+              "3_sessions": 25290,
+              "5_sessions": 41290
+            }
+          }
+        },
+        {
+          "name": "BioHyalux Mevita 18, 3,5 ml",
+          "description": "лицо",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 15900,
+              "club_card_price": 13900,
+              "top_price": 18900,
+              "top_card_price": 16900
+            }
+          }
+        },
+        {
+          "name": "Mesopharm Hydro Line P - anti wrinkles",
+          "description": "зона вокруг глаз",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "club_card_price": 7900,
+              "top_price": 1900,
+              "top_card_price": 9900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 22490,
+              "5_sessions": 36690
+            },
+            "top": {
+              "3_sessions": 30990,
+              "5_sessions": 50590
+            }
+          }
+        },
+        {
+          "name": "Mesoline Hair",
+          "description": "волосистая часть головы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 7900,
+              "club_card_price": 5900,
+              "top_price": 9900,
+              "top_card_price": 7900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 16790,
+              "5_sessions": 27390
+            },
+            "top": {
+              "3_sessions": 25290,
+              "5_sessions": 41290
+            }
+          }
+        },
+        {
+          "name": "Mesopharm Hair X Vitaline B+",
+          "description": "волосистая часть головы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 7490,
+              "club_card_price": 5490,
+              "top_price": 9490,
+              "top_card_price": 7490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 15590,
+              "5_sessions": 25490
+            },
+            "top": {
+              "3_sessions": 24090,
+              "5_sessions": 39390
+            }
+          }
+        },
+        {
+          "name": "Mesopharm Hair X DNA PEPTIDE",
+          "description": "волосистая часть головы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 10900,
+              "club_card_price": 8900,
+              "top_price": 13900,
+              "top_card_price": 10900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 25290,
+              "5_sessions": 41290
+            },
+            "top": {
+              "3_sessions": 33890,
+              "5_sessions": 55290
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Липолитики",
+      "equip": "Липолитики",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Mesoline Bodycontour",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6900,
+              "club_card_price": 4900,
+              "top_price": 8900,
+              "top_card_price": 5900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13890,
+              "5_sessions": 22690
+            },
+            "top": {
+              "3_sessions": 22490,
+              "5_sessions": 36690
+            }
+          }
+        },
+        {
+          "name": "Mesoline Bodyfirm",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6900,
+              "club_card_price": 4900,
+              "top_price": 8900,
+              "top_card_price": 5900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 13890,
+              "5_sessions": 22690
+            },
+            "top": {
+              "3_sessions": 22490,
+              "5_sessions": 36690
+            }
+          }
+        },
+        {
+          "name": "Light Fit, 2 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6490,
+              "club_card_price": 4490,
+              "top_price": 8490,
+              "top_card_price": 5490
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Плазмолифтинг",
+      "equip": "Плазмолифтинг",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "1 пробирка",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 7000,
+              "club_card_price": 5990,
+              "top_price": 9000,
+              "top_card_price": 7990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 16990,
+              "5_sessions": 27790
+            },
+            "top": {
+              "3_sessions": 25590,
+              "5_sessions": 41790
+            }
+          }
+        },
+        {
+          "name": "2 пробирки",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 10000,
+              "club_card_price": 8990,
+              "top_price": 13000,
+              "top_card_price": 10990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 25590,
+              "5_sessions": 41790
+            },
+            "top": {
+              "3_sessions": 34090,
+              "5_sessions": 55690
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Ботулинотерапия",
+      "equip": "Ботулинотерапия",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Диспорт (Франция) 1 ед.",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 170,
+              "top_price": 270
+            }
+          }
+        },
+        {
+          "name": "Релатокс (Россия) 1 ед.",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 360,
+              "top_price": 460
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 25590,
+              "5_sessions": 41790
+            },
+            "top": {
+              "3_sessions": 34090,
+              "5_sessions": 55690
+            }
+          }
+        },
+        {
+          "name": "Миотокс (Россия) 1 ед.",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 370,
+              "top_price": 470
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Лечение гипергидроза",
+      "equip": "Лечение гипергидроза",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Диспорт 300 ед. / Релатокс 100 ед.",
+          "description": "подмышки",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 31900,
+              "club_card_price": 29900,
+              "top_price": 34900,
+              "top_card_price": 32900
+            }
+          }
+        },
+        {
+          "name": "Диспорт 300 ед. / Релатокс 100 ед.",
+          "description": "Стопы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 31900,
+              "club_card_price": 29900,
+              "top_price": 34900,
+              "top_card_price": 32900
+            }
+          }
+        },
+        {
+          "name": "Диспорт 300 ед. / Релатокс 100 ед.",
+          "description": "Ладони",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 31900,
+              "club_card_price": 29900,
+              "top_price": 34900,
+              "top_card_price": 32900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Экзосомальная терапия",
+      "equip": "Экзосомальная терапия",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "ASCEplus DERMA SIGNAL KIT SRLV для лица, 5 ml",
+          "description": "лицо",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 40900,
+              "club_card_price": 38900,
+              "top_price": 43900,
+              "top_card_price": 41900
+            }
+          }
+        },
+        {
+          "name": "ASCEplus Scalp Саге HRLV для волос, 5 ml",
+          "description": "волосистая часть головы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 39900,
+              "club_card_price": 37900,
+              "top_price": 42900,
+              "top_card_price": 40900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Инъекционная косметология",
+      "subcategory": "Дополнительно",
+      "equip": "Дополнительно",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Атравматичная игла",
+          "description": "лицо",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2900,
+              "club_card_price": 900,
+              "top_price": 3900,
+              "top_card_price": 1900
+            }
+          }
+        },
+        {
+          "name": "Лонгидаза",
+          "description": "растворение филлеров",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 8900,
+              "club_card_price": 6900,
+              "top_price": 10900,
+              "top_card_price": 8900
+            }
+          }
+        },
+        {
+          "name": "Анестезия апликационная",
+          "description": "перед инъекциями",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2900,
+              "club_card_price": 900,
+              "top_price": 3900,
+              "top_card_price": 1900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Эстетическая косметология",
+      "subcategory": "Пилинги",
+      "equip": "Пилинги",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "SESDERMA Mandelac M (миндальный)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5000,
+              "club_card_price": 3900,
+              "top_price": 7000,
+              "top_card_price": 4900
+            }
+          }
+        },
+        {
+          "name": "SESDERMA Azelac M (азелаиновый)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5000,
+              "club_card_price": 3900,
+              "top_price": 7000,
+              "top_card_price": 4900
+            }
+          }
+        },
+        {
+          "name": "SESDERMA Azelac RU (азелаиновый)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5000,
+              "club_card_price": 3900,
+              "top_price": 7000,
+              "top_card_price": 4900
+            }
+          }
+        },
+        {
+          "name": "SESDERMA Argipeel Exfoliating gel (молочный)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5000,
+              "club_card_price": 3900,
+              "top_price": 7000,
+              "top_card_price": 4900
+            }
+          }
+        },
+        {
+          "name": "SESDERMA Salipeel S (салициловый)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5000,
+              "club_card_price": 3900,
+              "top_price": 7000,
+              "top_card_price": 4900
+            }
+          }
+        },
+        {
+          "name": "SESDERMA Melaspeel J2 (Джесснера)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6000,
+              "club_card_price": 4900,
+              "top_price": 8000,
+              "top_card_price": 5900
+            }
+          }
+        },
+        {
+          "name": "SESDERMA Retises CT Yellow peel (желтый)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6000,
+              "club_card_price": 4900,
+              "top_price": 8000,
+              "top_card_price": 5900
+            }
+          }
+        },
+        {
+          "name": "MARTINEX Mandelicpeel 40 %",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4000,
+              "club_card_price": 2900,
+              "top_price": 5000,
+              "top_card_price": 3900
+            }
+          }
+        },
+        {
+          "name": "MARTINEX Salicylicpeel 25%",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4000,
+              "club_card_price": 2900,
+              "top_price": 5000,
+              "top_card_price": 3900
+            }
+          }
+        },
+        {
+          "name": "PRX-T33 (лицо) 1 ml",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6000,
+              "club_card_price": 4900,
+              "top_price": 8000,
+              "top_card_price": 5900
+            }
+          }
+        },
+        {
+          "name": "PRX-T33 (лицо + шея)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 8000,
+              "club_card_price": 6900,
+              "top_price": 10000,
+              "top_card_price": 8900
+            }
+          }
+        },
+        {
+          "name": "PRX-T33 (лицо + шея + декольте)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 9000,
+              "club_card_price": 6900,
+              "top_price": 11000,
+              "top_card_price": 9900
+            }
+          }
+        },
+        {
+          "name": "Интимный пилинг (Pink Intimate System)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 8000,
+              "club_card_price": 6900,
+              "top_price": 10000,
+              "top_card_price": 8900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Эстетическая косметология",
+      "subcategory": "Чистки и уходы",
+      "equip": "Чистки и уходы",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Комбинированная чистка кожи лица Holy Land",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6000,
+              "club_card_price": 4900,
+              "top_price": 8000,
+              "top_card_price": 5900
+            }
+          }
+        },
+        {
+          "name": "Атравматическая чистка кожи лица Holy Land",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5500,
+              "club_card_price": 4490,
+              "top_price": 7500,
+              "top_card_price": 5490
+            }
+          }
+        },
+        {
+          "name": "Ультразвуковая чистка лица Holy Land",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5000,
+              "club_card_price": 3900,
+              "top_price": 7000,
+              "top_card_price": 4900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Коррекция фигуры",
+      "subcategory": "ULFIT - ультразвуковая липосакция",
+      "equip": "ULFIT",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "400 линий",
+          "description": "бока S/колени S/плечи S",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 11900
+            }
+          }
+        },
+        {
+          "name": "600 линий",
+          "description": "бока M/плечи M",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 16200
+            }
+          }
+        },
+        {
+          "name": "800 линий",
+          "description": "живот S/внутренняя поверхность бедра S/бока L",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 21600
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 57590
+            }
+          }
+        },
+        {
+          "name": "1000 линий",
+          "description": "живот M/бока M",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 27000
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 71990
+            }
+          }
+        },
+        {
+          "name": "1200 линий",
+          "description": "бедра M/живот L",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 32400
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 83390
+            }
+          }
+        },
+        {
+          "name": "1400 линий",
+          "description": "живот XL/бедра XL",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 37800
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "3_sessions": 100790
+            }
+          }
+        },
+        {
+          "name": "2000 линий",
+          "description": "живот XL/бедра XL",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 49900
+            }
+          }
+        },
+        {
+          "name": "3000 линий",
+          "description": "живот XL/бедра XL",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 74900
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Коррекция фигуры",
+      "subcategory": "EMSculpt",
+      "equip": "EMSculpt",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Ягодицы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24990,
+              "club_card_price": 19990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "4_sessions": 99960
+            }
+          }
+        },
+        {
+          "name": "Живот",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 24990,
+              "club_card_price": 19990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "4_sessions": 99960
+            }
+          }
+        },
+        {
+          "name": "Бицепс",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 19990,
+              "club_card_price": 14990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "4_sessions": 79960
+            }
+          }
+        },
+        {
+          "name": "Трицепс",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 19990,
+              "club_card_price": 14990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "4_sessions": 79960
+            }
+          }
+        },
+        {
+          "name": "Икроножные мышцы",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 19990,
+              "club_card_price": 14990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "4_sessions": 79960
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Коррекция фигуры",
+      "subcategory": "Прессотерапия",
+      "equip": "Прессотерапия",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Лесная, д. 1/2"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Тотальный детокс",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 13790,
+              "12_sessions": 23890
+            }
+          }
+        },
+        {
+          "name": "Варикозное расширение вен",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 13790,
+              "12_sessions": 23890
+            }
+          }
+        },
+        {
+          "name": "Расслабление мышц",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 13790,
+              "12_sessions": 23890
+            }
+          }
+        },
+        {
+          "name": "Стимулирование регенерации кожи",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 13790,
+              "12_sessions": 23890
+            }
+          }
+        },
+        {
+          "name": "Снижение избыточной массы тела",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2990,
+              "club_card_price": 2490
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 13790,
+              "12_sessions": 23890
+            }
+          }
+        },
+        {
+          "name": "Восстановление после липосакции",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3590,
+              "club_card_price": 2990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 16490,
+              "12_sessions": 28690
+            }
+          }
+        },
+        {
+          "name": "Легкие ножки",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3590,
+              "club_card_price": 2990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 16490,
+              "12_sessions": 28690
+            }
+          }
+        },
+        {
+          "name": "Максимальный детокс",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4790,
+              "club_card_price": 3990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 21990,
+              "12_sessions": 38290
+            }
+          }
+        },
+        {
+          "name": "Избавление от отеков",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4790,
+              "club_card_price": 3990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 21990,
+              "12_sessions": 38290
+            }
+          }
+        },
+        {
+          "name": "Спортивное восстановление",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4790,
+              "club_card_price": 3990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 21990,
+              "12_sessions": 38290
+            }
+          }
+        },
+        {
+          "name": "Прощай целлюлит",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4790,
+              "club_card_price": 3990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 21990,
+              "12_sessions": 38290
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Эндосфера-терапия",
+      "equip": "Эндосфера-терапия",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Александра Солженицына, д. 1/5"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "2-я Брестская ул., д. 24"
+        }
+      ],
+      "services": [
+        {
+          "name": "Все тело",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5990,
+              "top_price": 7990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 24900,
+              "12_sessions": 42400
+            }
+          },
+          "top": {
+            "6_sessions": 45490,
+            "12_sessions": 71790
+          }
+        },
+        {
+          "name": "Лицо полностью",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 8190
+            }
+          }
+        },
+        {
+          "name": "Комбо (тело + лицо)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5990,
+              "top_price": 7990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 37690,
+              "10_sessions": 73700
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Beautylizer",
+      "equip": "Beautylizer",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Сретенка, д. 27, стр.1"
+        },
+        {
+          "city": "Москва",
+          "address": "Леонтьевский пер., д. 21/1, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "ул. Большая Ордынка, д. 31/12, стр. 1"
+        },
+        {
+          "city": "Москва",
+          "address": "проспект Вернадского, д. 41, стр.1"
+        }
+      ],
+      "services": [
+        {
+          "name": "Все тело",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5990,
+              "top_price": 7990
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "6_sessions": 24900,
+              "12_sessions": 42400
+            }
+          },
+          "top": {
+            "6_sessions": 45490,
+            "12_sessions": 71790
+          }
+        },
+        {
+          "name": "Комбо (тело + лицо)",
+          "description": "Beautylizer + массаж лица (на выбор - классический, буккальный, скульптурный, хиропластический)",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 8190
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 37690,
+              "10_sessions": 73700
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Ручной массаж лица",
+      "equip": "Ручной массаж лица",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Буккальный массаж",
+          "description": "Лицо полностью",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3500,
+              "club_card_price": 2900,
+              "top_price": 4500,
+              "top_card_price": 3900
+            }
+          }
+        },
+        {
+          "name": "Классический массаж",
+          "description": "Лицо полностью",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3500,
+              "club_card_price": 2900,
+              "top_price": 4500,
+              "top_card_price": 3900
+            }
+          }
+        },
+        {
+          "name": "Миофасциальный массаж",
+          "description": "Лицо полностью",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5900,
+              "club_card_price": 4900,
+              "top_price": 7900,
+              "top_card_price": 5900
+            }
+          }
+        },
+        {
+          "name": "Скульптурный массаж",
+          "description": "Лицо полностью",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3500,
+              "club_card_price": 2900,
+              "top_price": 4500,
+              "top_card_price": 3900
+            }
+          }
+        },
+        {
+          "name": "Хиропластический массаж",
+          "description": "Лицо полностью",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 1790,
+              "club_card_price": 1490,
+              "top_price": 2790,
+              "top_card_price": 2490
+            }
+          }
+        },
+        {
+          "name": "Миопластический массаж ",
+          "description": "Лицо полностью + шея + декольте",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 9500,
+              "club_card_price": 7900,
+              "top_price": 11500,
+              "top_card_price": 9990
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Ручной массаж тела",
+      "equip": "Антицеллюлитный массаж",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Бедра + ягодицы",
+          "description": "Антицеллюлитный массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4000,
+              "club_card_price": 3290,
+              "top_price": 5000,
+              "top_card_price": 4290
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 16000,
+              "10_sessions": 30000
+            },
+            "top": {
+              "5_sessions": 20000,
+              "10_sessions": 37500
+            }
+          }
+        },
+        {
+          "name": "Живот + бока",
+          "description": "Антицеллюлитный массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 4000,
+              "club_card_price": 3290,
+              "top_price": 5000,
+              "top_card_price": 4290
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 16000,
+              "10_sessions": 30000
+            },
+            "top": {
+              "5_sessions": 20000,
+              "10_sessions": 37500
+            }
+          }
+        },
+        {
+          "name": "Все тело",
+          "description": "Антицеллюлитный массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6500,
+              "club_card_price": 5500,
+              "top_price": 8500,
+              "top_card_price": 7500
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 26000,
+              "10_sessions": 48750
+            },
+            "top": {
+              "5_sessions": 34000,
+              "10_sessions": 63750
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Ручной массаж тела",
+      "equip": "Классический массаж",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Все тело",
+          "description": "Классический массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 5500,
+              "club_card_price": 4500,
+              "top_price": 7500,
+              "top_card_price": 5500
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 22000,
+              "10_sessions": 41250
+            },
+            "top": {
+              "5_sessions": 30000,
+              "10_sessions": 56250
+            }
+          }
+        },
+        {
+          "name": "Спина",
+          "description": "Классический массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 3500,
+              "club_card_price": 2900,
+              "top_price": 4500,
+              "top_card_price": 3900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 14000,
+              "10_sessions": 26250
+            },
+            "top": {
+              "5_sessions": 18000,
+              "10_sessions": 33750
+            }
+          }
+        },
+        {
+          "name": "Шейно-воротниковая зона",
+          "description": "Классический массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 2300,
+              "club_card_price": 1900,
+              "top_price": 3300,
+              "top_card_price": 2900
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 9200,
+              "10_sessions": 17250
+            },
+            "top": {
+              "5_sessions": 13200,
+              "10_sessions": 24750
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Ручной массаж тела",
+      "equip": "Лимфодренажный массаж",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Все тело",
+          "description": "Лимфодренажный массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6500,
+              "club_card_price": 5500,
+              "top_price": 8500,
+              "top_card_price": 7500
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 26000,
+              "10_sessions": 48750
+            },
+            "top": {
+              "5_sessions": 34000,
+              "10_sessions": 63750
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Ручной массаж тела",
+      "equip": "Лепка тела",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Все тело",
+          "description": "Лепка тела",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 7500,
+              "club_card_price": 6500,
+              "top_price": 9500,
+              "top_card_price": 8500
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 30000,
+              "10_sessions": 56250
+            },
+            "top": {
+              "5_sessions": 38000,
+              "10_sessions": 71250
+            }
+          }
+        }
+      ]
+    },
+    {
+      "category": "Массажи",
+      "subcategory": "Ручной массаж тела",
+      "equip": "Спортивный массаж",
+      "clinics": [
+        {
+          "city": "Москва",
+          "address": "Кутузовский пр., д. 34, стр. 14"
+        }
+      ],
+      "services": [
+        {
+          "name": "Все тело",
+          "description": "Спортивный массаж",
+          "select": false,
+          "prices": {
+            "women": {
+              "standard_price": 6500,
+              "club_card_price": 5500,
+              "top_price": 8500,
+              "top_card_price": 7500
+            }
+          },
+          "subscriptions": {
+            "regular": {
+              "5_sessions": 26000,
+              "10_sessions": 48750
+            },
+            "top": {
+              "5_sessions": 34000,
+              "10_sessions": 63750
+            }
+          }
+        }
+      ]
     }
-  ] 
+  ]
 }
